@@ -1,1 +1,2 @@
-New directory craetion
+New directory creation
+Moving to updates
